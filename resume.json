@@ -1,0 +1,91 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Branden Palmer",
+    "label": "Front-End Developer",
+    "email": "brandenpalmer08@gmail.com",
+    "url": "https://brandenpalmer.dev",
+    "summary": "Self taught developer with 1.5 years experience building projects in the React ecosystem. 2,200+ commits across 30 repos since July 2021. Seeking a career changing into font end development. Successful senior aviation technician with 10 years of professional experience. Adept to a career requiring a high degree of initiative.",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "palmerusaf",
+        "url": "https://github.com/palmerusaf"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "branden-palmer",
+        "url": "https://linkedin.com/in/branden-palmer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Lockheed Martin",
+      "location": "Iraq",
+      "description": "Awesome compression company",
+      "position": "Senior Aviation Technician",
+      "url": "http://lockheedmartin.com",
+      "startDate": "2017-12-01",
+      "endDate": "2020-01-01",
+      "summary": "Trained and assisted Iraqi Air Force in the maintenance of F-16 fighter aircraft.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Community College of the Air Force",
+      "url": "https://www.airuniversity.af.edu/",
+      "area": "Aviation Maintenance Technology",
+      "studyType": "AAS",
+      "startDate": "2012-04-14",
+      "endDate": "2014-04-14"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Proficient",
+      "keywords": [
+        "React",
+        "Storybook",
+        "Javascript",
+        "Git",
+        "TailwindCSS",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Exposed",
+      "keywords": ["Next", "TypeScript", "Docker"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Memespace",
+      "description": "Social app exclusively for memes",
+      "highlights": [
+        "Demonstrated strong problem-solving abilities by addressing a programming issue that had no identifiable errors and required two days of troubleshooting, by developing a standardized troubleshooting template. As a result, the next troubleshooting session for a similar issue only took two hours instead of two days."
+      ],
+      "keywords": ["Next 13", "Storybook", "TypeScript", "React Query"],
+      "startDate": "11-13-2022",
+      "endDate": "",
+      "url": "memespace.vercel.app",
+      "type": "application"
+    },
+    {
+      "name": "Battle Ship",
+      "description": "Classic board game turned digital.",
+      "highlights": [],
+      "keywords": ["Jest", "TDD", "Javascript", "SASS", "Webpack"],
+      "startDate": "april 14, 2022",
+      "endDate": "sep 7, 2022",
+      "url": "https://palmerusaf.github.io/battle-ship/",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
