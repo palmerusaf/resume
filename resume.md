@@ -34,14 +34,35 @@ Front-End Developer
 
 ### SuperProductivity (github.com/johannesjo/super-productivity)
 
-- Description: Advanced todo list app with 419,000+ downloads
 - Pinpointed and corrected rendering bug affecting 6 UI components, closing open issue.
 
 ## Personal Projects
 
-### MemeSpace (github.com/palmerusaf/memespace)
+### MemeSpace (github.com/palmerusaf/memespace
 
-- Description: TODO
-- Demonstrated strong problem-solving abilities by addressing a programming issue that had no identifiable errors and required two days of troubleshooting, by developing a standardized troubleshooting template. As a result, the next troubleshooting session for a similar issue only took two hours instead of two days.
+#### Initial bullets
+
+- coding conventions
+- storyboard
+- integrated api
+- isolated build error with git bisect
+
+#### WIP bullets
+
+#### Finalized bullets
+
+- "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours."
 
 ### BattleShip (github.com/palmerusaf/battle-ship)
+
+#### Initial bullets
+
+- created tests
+- refactored
+- created render module
+- styled
+- create ai
+
+#### WIP bullets
+
+#### Finalized bullets
