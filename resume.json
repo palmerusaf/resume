@@ -28,14 +28,14 @@
       "url": "http://lockheedmartin.com",
       "startDate": "2017-12-01",
       "endDate": "2020-01-01",
-      "summary": "Trained and assisted Iraqi Air Force in the maintenance of F-16 fighter aircraft.",
+      "summary": "Trained, assisted Iraqi Air Force in the maintenance of F-16 fighter aircraft.",
       "highlights": []
     }
   ],
   "education": [
     {
       "institution": "Community College of the Air Force",
-      "url": "https://www.airuniversity.af.edu/",
+      "url": "https://airuniversity.af.edu/",
       "area": "Aviation Maintenance Technology",
       "studyType": "AAS",
       "startDate": "2012-04-14",
@@ -62,7 +62,7 @@
   "projects": [
     {
       "name": "Memespace",
-      "description": "Social app exclusively for memes",
+      "description": "A social app just for memes.",
       "highlights": [
         "Demonstrated strong problem-solving abilities by addressing a programming issue that had no identifiable errors and required two days of troubleshooting, by developing a standardized troubleshooting template. As a result, the next troubleshooting session for a similar issue only took two hours instead of two days."
       ],
@@ -70,6 +70,7 @@
       "startDate": "11-13-2022",
       "endDate": "",
       "url": "memespace.vercel.app",
+      "roles": ["Creator"],
       "type": "application"
     },
     {
@@ -78,6 +79,7 @@
       "highlights": [],
       "keywords": ["Jest", "TDD", "Javascript", "SASS", "Webpack"],
       "startDate": "april 14, 2022",
+      "roles": ["Creator"],
       "endDate": "sep 7, 2022",
       "url": "https://palmerusaf.github.io/battle-ship/",
       "type": "application"
