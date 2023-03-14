@@ -47,16 +47,22 @@
       "name": "Proficient",
       "keywords": [
         "React",
-        "Storybook",
         "Javascript",
-        "Git",
+        "Storybook",
         "TailwindCSS",
-        "CSS"
+        "CSS/SCSS",
+        "BASH/Linux",
+        "Jest",
+        "Git"
       ]
     },
     {
+      "name": "Learning",
+      "keywords": ["TypeScript", "Next", "Firebase"]
+    },
+    {
       "name": "Exposed",
-      "keywords": ["Next", "TypeScript", "Docker"]
+      "keywords": ["Docker", "Docker-compose"]
     }
   ],
   "projects": [
