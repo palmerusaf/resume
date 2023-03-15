@@ -70,7 +70,8 @@
       "name": "Memespace",
       "description": "A social app just for memes.",
       "highlights": [
-        "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours."
+        "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours.",
+        "Utilized git bisect to isolate a production build failure to one commit affecting three files, providing crucial context to troubleshoot and fix the issue."
       ],
       "keywords": ["Next 13", "Storybook", "TypeScript", "React Query"],
       "startDate": "11-13-2022",

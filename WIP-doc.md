@@ -38,20 +38,20 @@ Front-End Developer
 
 ## Personal Projects
 
-### MemeSpace (github.com/palmerusaf/memespace
+### MemeSpace (github.com/palmerusaf/memespace)
 
 #### Initial bullets
 
-- coding conventions
 - storyboard
+- coding conventions
 - integrated api
-- isolated build error with git bisect
 
 #### WIP bullets
 
 #### Finalized bullets
 
 - "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours."
+- "Utilized git bisect to isolate a production build failure to one commit affecting three files, providing crucial context to troubleshoot and fix the issue."
 
 ### BattleShip (github.com/palmerusaf/battle-ship)
 
