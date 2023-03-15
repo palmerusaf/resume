@@ -43,7 +43,7 @@ Front-End Developer
 #### Initial bullets
 
 - storyboard
-- coding conventions
+- firebase and react query
 
 #### WIP bullets
 
@@ -52,11 +52,21 @@ Task:
 Action:
 Result:
 
+{- firebase and react query
+Situation:
+Task:
+Action:
+Result:
+}
+
 #### Finalized bullets
 
 - "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours."
 - "Utilized git bisect to isolate a production build failure to one commit affecting three files, providing crucial context to troubleshoot and fix the issue."
 - "Successfully integrated a 3rd party API to fulfill core functionality requirements, creating a module to fetch content, selector components, and modals for UI access, resulting in the site's access to an impressive library of 999 memes."
+  {- "Created a comprehensive conventions document outlining 10 key decisions, including file naming, folder structure, and Git commits, which effectively reduced low-value decision-making and eliminated decision fatigue. This standardized approach allowed for faster and more meaningful development."
+- "Created a conventions document covering 10 key decisions, such as file naming and Git commits, which reduced decision fatigue and enabled faster, more meaningful development."
+  }
 
 ### BattleShip (github.com/palmerusaf/battle-ship)
 
