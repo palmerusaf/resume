@@ -52,21 +52,17 @@ Task:
 Action:
 Result:
 
-{- firebase and react query
-Situation:
-Task:
-Action:
-Result:
-}
-
 #### Finalized bullets
 
 - "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours."
 - "Utilized git bisect to isolate a production build failure to one commit affecting three files, providing crucial context to troubleshoot and fix the issue."
 - "Successfully integrated a 3rd party API to fulfill core functionality requirements, creating a module to fetch content, selector components, and modals for UI access, resulting in the site's access to an impressive library of 999 memes."
-  {- "Created a comprehensive conventions document outlining 10 key decisions, including file naming, folder structure, and Git commits, which effectively reduced low-value decision-making and eliminated decision fatigue. This standardized approach allowed for faster and more meaningful development."
-- "Created a conventions document covering 10 key decisions, such as file naming and Git commits, which reduced decision fatigue and enabled faster, more meaningful development."
-  }
+- created coding conventions
+  - "Created a comprehensive conventions document outlining 10 key decisions, including file naming, folder structure, and Git commits, which effectively reduced low-value decision-making and eliminated decision fatigue. This standardized approach allowed for faster and more meaningful development."
+  - "Created a conventions document covering 10 key decisions, such as file naming and Git commits, which reduced decision fatigue and enabled faster, more meaningful development."
+- firebase and react query
+  - "Successfully integrated a BaaS solution (Firebase) to provide backend storage and user authentication, and implemented caching to reduce network requests by creating a module that combined Firebase with React Query. Also, created custom hooks to integrate Firebase auth state and added a loading UI, resulting in the fulfillment of core social functionality with optimized network performance."
+  - "Integrated Firebase BaaS for storage and user auth, added caching with React Query, custom hooks for Firebase auth state, and a loading UI. Fulfilled core social functionality while optimizing network performance."
 
 ### BattleShip (github.com/palmerusaf/battle-ship)
 
