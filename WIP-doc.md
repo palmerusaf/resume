@@ -44,14 +44,19 @@ Front-End Developer
 
 - storyboard
 - coding conventions
-- integrated api
 
 #### WIP bullets
+
+Situation:
+Task:
+Action:
+Result:
 
 #### Finalized bullets
 
 - "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours."
 - "Utilized git bisect to isolate a production build failure to one commit affecting three files, providing crucial context to troubleshoot and fix the issue."
+- "Successfully integrated a 3rd party API to fulfill core functionality requirements, creating a module to fetch content, selector components, and modals for UI access, resulting in the site's access to an impressive library of 999 memes."
 
 ### BattleShip (github.com/palmerusaf/battle-ship)
 
