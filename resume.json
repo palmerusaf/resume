@@ -7,6 +7,7 @@
     "url": "https://brandenpalmer.dev",
     "summary": "Self taught developer with 1.5 years experience building projects in the React ecosystem. 2,200+ commits across 30 repos since July 2021. Seeking a career changing into font end development. Successful senior aviation technician with 10 years of professional experience. Adept to a career requiring a high degree of initiative.",
     "profiles": [
+      { "network": "Website", "url": "https://brandenpalmer.dev" },
       {
         "network": "Github",
         "username": "palmerusaf",
@@ -38,8 +39,8 @@
       "url": "https://airuniversity.af.edu/",
       "area": "Aviation Maintenance Technology",
       "studyType": "AAS",
-      "startDate": "2012-04-14",
-      "endDate": "2014-04-14"
+      "startDate": "2012",
+      "endDate": "2014"
     }
   ],
   "skills": [
@@ -77,22 +78,22 @@
         "Integrated Firebase BaaS for storage and user auth, added caching with React Query, custom hooks for Firebase auth state, and a loading UI. Fulfilled core social functionality while optimizing network performance."
       ],
       "keywords": ["Next 13", "Storybook", "TypeScript", "React Query"],
-      "startDate": "11-13-2022",
+      "startDate": "2022-11-13",
       "endDate": "",
-      "url": "memespace.vercel.app",
+      "url": "https://memespace.vercel.app",
       "roles": ["Creator"],
-      "type": "application"
+      "type": "app"
     },
     {
       "name": "Battle Ship",
       "description": "Classic board game turned digital.",
       "highlights": [],
       "keywords": ["Jest", "TDD", "Javascript", "SASS", "Webpack"],
-      "startDate": "april 14, 2022",
+      "startDate": "2022-04-14",
       "roles": ["Creator"],
-      "endDate": "sep 7, 2022",
+      "endDate": "2022-09-07",
       "url": "https://palmerusaf.github.io/battle-ship/",
-      "type": "application"
+      "type": "app"
     }
   ],
   "meta": {
