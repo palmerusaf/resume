@@ -36,11 +36,6 @@ Front-End Developer
 
 - "Successfully corrected a UI issue where six icons were off-center. Used browser tools to locate the appropriate CSS classes and added SCSS to re-center the icons. The resulting change was merged, and the issue was closed."
 
-Situation: app had an issue open with 6 UI icon being off center
-Task: find and correnct issue
-Action: used browser tools to locate appropriate css classes, added SCSS to recenter icons
-Result: change merge, closing issue
-
 ## Personal Projects
 
 ### MemeSpace (github.com/palmerusaf/memespace)
@@ -80,9 +75,9 @@ Result:
 
 {- created render module
 Situation: Needed a way to render game
-Task: create module to render game
-Action: created a render module with 4 screen
-Result:
+Task: create rendering system
+Action: created a render module to support 4 screens with 18 components.
+Result: resulting api hide implementation allowing rendering to be more manageable
 }
 
 #### Finalized bullets
@@ -90,3 +85,4 @@ Result:
 - "Used TDD to write 35 tests covering 3 modules and 16 functions, resulting in SOLID game logic code that was easier to refactor and understand."
 - "Applied Martin Fowler's Refactoring principles, including the Two Hats and Incremental Refactoring principles, to systematically refactor a disorganized codebase. As a result, a new feature, the random ship placement button, was implemented in just 15 minutes.
 - "Implemented a style system using SCSS and the BEM method, with separate files for each component, resulting in a coherent, easy-to-use, high-quality style system"
+- "Developed a rendering system by creating a render module in Vanilla JS that supported four screens with 18 components. This resulted in a manageable rendering API that effectively hid implementation details."
