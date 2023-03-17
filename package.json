@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "resume serve -t one",
+    "pdf":"resume export -t one -f pdf resume",
+    "html":"resume export -t one -f html resume"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-one": "^0.0.1"
+  }
+}
