@@ -63,7 +63,6 @@ Front-End Developer
 
 #### Initial bullets
 
-- refactored
 - created render module
 - styled
 - create ai
@@ -78,3 +77,4 @@ Result:
 #### Finalized bullets
 
 - "Used TDD to write 35 tests covering 3 modules and 16 functions, resulting in SOLID code that was easier to change and reason about"
+- "Applied Martin Fowler's Refactoring principles, including the Two Hats and Incremental Refactoring principles, to systematically refactor a disorganized codebase. As a result, a new feature, the random ship placement button, was implemented in just 15 minutes.
