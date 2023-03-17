@@ -64,7 +64,6 @@ Front-End Developer
 #### Initial bullets
 
 - created render module
-- styled
 - create ai
 
 #### WIP bullets
@@ -74,14 +73,15 @@ Task:
 Action:
 Result:
 
-{- styled
-Situation:
-Task:
-Action:
-Result:
+{- create ai
+Situation: game needed an enemy opponent to play against
+Task: Create a basic AI
+Action: modified player class to add automated functionality
+Result: fulfilled core requirement
 }
 
 #### Finalized bullets
 
 - "Used TDD to write 35 tests covering 3 modules and 16 functions, resulting in SOLID code that was easier to refactor and understand"
 - "Applied Martin Fowler's Refactoring principles, including the Two Hats and Incremental Refactoring principles, to systematically refactor a disorganized codebase. As a result, a new feature, the random ship placement button, was implemented in just 15 minutes.
+- "Implemented a style system using SCSS and the BEM method, with separate files for each component, resulting in a coherent, easy-to-use, high-quality style system"
