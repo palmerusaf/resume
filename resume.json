@@ -24,12 +24,12 @@
     {
       "name": "SuperProductivity",
       "location": "Remote",
-      "description": "Advance todo list app with 421,000+ downloads.",
+      "description": "Advanced todo list app with 421,000+ downloads.",
       "position": "Open Source Contributor",
       "url": "https://super-productivity.com/",
       "startDate": "2022-04-22",
       "endDate": "",
-      "summary": "Advance todo list app with 421,000+ downloads.",
+      "summary": "Advanced todo list app with 421,000+ downloads.",
       "highlights": [
         "Successfully corrected a UI issue where six icons were off-center. Used browser tools to locate the appropriate CSS classes and added SCSS to re-center icons. The resulting change was merged, and issue was closed."
       ]
