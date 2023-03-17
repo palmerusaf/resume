@@ -73,13 +73,6 @@ Task:
 Action:
 Result:
 
-{- create ai
-Situation: game needed an enemy opponent to play against
-Task: Create a basic AI
-Action: modified player class to add automated functionality
-Result: fulfilled core requirement
-}
-
 #### Finalized bullets
 
 - "Used TDD to write 35 tests covering 3 modules and 16 functions, resulting in SOLID code that was easier to refactor and understand"
