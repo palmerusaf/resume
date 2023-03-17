@@ -87,7 +87,9 @@
     {
       "name": "Battle Ship",
       "description": "Classic board game turned digital.",
-      "highlights": [],
+      "highlights": [
+        "Used TDD to write 35 tests covering 3 modules and 16 functions, resulting in SOLID code that was easier to change and reason about"
+      ],
       "keywords": ["Jest", "TDD", "Javascript", "SASS", "Webpack"],
       "startDate": "2022-04-14",
       "roles": ["Creator"],

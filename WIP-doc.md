@@ -47,11 +47,6 @@ Front-End Developer
 
 #### WIP bullets
 
-Situation:
-Task:
-Action:
-Result:
-
 #### Finalized bullets
 
 - "Developed a standardized troubleshooting template to address a programming issue with no identifiable errors, reducing the next troubleshooting session time from two days to two hours."
@@ -68,7 +63,6 @@ Result:
 
 #### Initial bullets
 
-- created tests
 - refactored
 - created render module
 - styled
@@ -76,4 +70,11 @@ Result:
 
 #### WIP bullets
 
+Situation:
+Task:
+Action:
+Result:
+
 #### Finalized bullets
+
+- "Used TDD to write 35 tests covering 3 modules and 16 functions, resulting in SOLID code that was easier to change and reason about"
