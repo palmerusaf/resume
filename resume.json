@@ -22,15 +22,30 @@
   },
   "work": [
     {
+      "name": "SuperProductivity",
+      "location": "Remote",
+      "description": "Advance todo list app with 421,000+ downloads.",
+      "position": "Open Source Contributor",
+      "url": "https://super-productivity.com/",
+      "startDate": "2022-04-22",
+      "endDate": "",
+      "summary": "Advance todo list app with 421,000+ downloads.",
+      "highlights": [
+        "Successfully corrected a UI issue where six icons were off-center. Used browser tools to locate the appropriate CSS classes and added SCSS to re-center icons. The resulting change was merged, and issue was closed."
+      ]
+    },
+    {
       "name": "Lockheed Martin",
       "location": "Iraq",
-      "description": "Awesome compression company",
+      "description": "Military Defense Contractor",
       "position": "Senior Aviation Technician",
       "url": "http://lockheedmartin.com",
       "startDate": "2017-12-01",
       "endDate": "2020-01-01",
-      "summary": "Trained, assisted Iraqi Air Force in the maintenance of F-16 fighter aircraft.",
-      "highlights": []
+      "summary": "A global security and aerospace company.",
+      "highlights": [
+        "Trained, assisted Iraqi Air Force in the maintenance of F-16 fighter aircraft."
+      ]
     }
   ],
   "education": [
