@@ -31,7 +31,7 @@
       "endDate": "",
       "summary": "Advanced todo list app with 421,000+ downloads.",
       "highlights": [
-        "Successfully corrected a UI issue where six icons were off-center. Used browser tools to locate the appropriate CSS classes and added SCSS to re-center icons. The resulting change was merged, and issue was closed."
+        "Used browser tools to locate the appropriate CSS classes and added SCSS to re-center icons. Resulting change was merged, and issue was closed."
       ]
     },
     {
