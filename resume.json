@@ -7,7 +7,10 @@
     "url": "https://brandenpalmer.dev",
     "summary": "Front-end developer with 1.5 years experience building projects in the React ecosystem. Seeking a career change into front-end development. Successful senior aviation technician with 10 years of professional experience. Adept to a career requiring a high degree of initiative.",
     "profiles": [
-      { "network": "Website", "url": "https://brandenpalmer.dev" },
+      {
+        "network": "Website",
+        "url": "https://brandenpalmer.dev"
+      },
       {
         "network": "Github",
         "username": "palmerusaf",
@@ -74,11 +77,18 @@
     },
     {
       "name": "Learning",
-      "keywords": ["TypeScript", "Next", "Firebase"]
+      "keywords": [
+        "TypeScript",
+        "Next",
+        "Firebase"
+      ]
     },
     {
       "name": "Exposed",
-      "keywords": ["Docker", "Docker-compose"]
+      "keywords": [
+        "Docker",
+        "Docker-compose"
+      ]
     }
   ],
   "projects": [
@@ -92,11 +102,18 @@
         "Created a conventions document covering 10 key decisions, such as file naming and Git commits, which reduced decision fatigue and enabled faster, more meaningful development.",
         "Integrated Firebase BaaS for storage and user auth, added caching with React Query, custom hooks for Firebase auth state, and a loading UI. Fulfilled core social functionality while optimizing network performance."
       ],
-      "keywords": ["Next 13", "Storybook", "TypeScript", "React Query"],
+      "keywords": [
+        "Next 13",
+        "Storybook",
+        "TypeScript",
+        "React Query"
+      ],
       "startDate": "2022-11-13",
       "endDate": "",
       "url": "https://memespace.vercel.app",
-      "roles": ["Creator"],
+      "roles": [
+        "Creator"
+      ],
       "type": "app"
     },
     {
@@ -108,9 +125,17 @@
         "Implemented a style system using SCSS and the BEM method, with separate files for each screen, resulting in a coherent, easy-to-use, high-quality style system.",
         "Developed a rendering system by creating a render module in Vanilla JS that supported four screens with 18 components. Resulting in a manageable rendering API that effectively hid implementation details."
       ],
-      "keywords": ["Jest", "TDD", "Javascript", "SASS", "Webpack"],
+      "keywords": [
+        "Jest",
+        "TDD",
+        "Javascript",
+        "SASS",
+        "Webpack"
+      ],
       "startDate": "2022-04-14",
-      "roles": ["Creator"],
+      "roles": [
+        "Creator"
+      ],
       "endDate": "2022-09-07",
       "url": "https://palmerusaf.github.io/battle-ship/",
       "type": "app"
