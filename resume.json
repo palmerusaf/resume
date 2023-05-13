@@ -69,6 +69,7 @@
         "Javascript",
         "Storybook",
         "TailwindCSS",
+        "TypeScript",
         "CSS/SCSS",
         "BASH/Linux",
         "Jest",
@@ -78,7 +79,6 @@
     {
       "name": "Learning",
       "keywords": [
-        "TypeScript",
         "Next",
         "Firebase"
       ]
