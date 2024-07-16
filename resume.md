@@ -20,6 +20,13 @@
 
 ## Projects
 
+### Polyfill Pwn Protector | <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time>
+
+<skills>JSON, JavaScript</skills>
+
+- Protects users against 380K sites infected with polyfill attack by blocking and replacing infected polyfill domain
+- Published three days after attack
+
 ### MUD Terminal game | <desc>Text based dungeon crawler</desc> <time>Nov 2023 – Dec 2023 </time>
 
 <skills>C, C++, JSON</skills>
@@ -56,8 +63,9 @@
 
 ## Experience
 
-### Open Source Contributor | <location>super-productivity.com</location> <time>Apr 2022 – Apr 2022</time>
+### Open Source Contributor | <location>super-productivity.com</location> <time>Apr 2022 – Jan 2024</time>
 
+- ID's regression bug by utilizing git bisect
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
 
 ### Senior Aircraft Technician | <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
