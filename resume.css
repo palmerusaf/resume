@@ -93,6 +93,10 @@ time {
   font-weight: bold;
 }
 
+location::before,
+desc::before {
+  content: ' | ';
+}
 location,
 desc {
   font-weight: normal;
