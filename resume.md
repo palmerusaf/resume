@@ -8,13 +8,13 @@
 
 ## Education
 
-### Arizona State University<location> Tempe, AZ, USA</location> <time>Aug 2023 – Present</time>
+### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2023 – Present</time>
 
 - B.S. in Computer Science
-- GPA: 3.95 | Expected Graduation: Dec 2025
+- GPA: 3.95 | Expected Graduation: May 2026
 - Dean's List Spring 2024
 
-### Community College of The Air Force<location> Montgomery, AL, USA</location> <time>Jul 2009 – May 2014 </time>
+### Community College of The Air Force <location>Montgomery, AL, USA</location> <time>Jul 2009 – May 2014 </time>
 
 - A.A.S. in Aviation Maintenance Technology
 
