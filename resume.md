@@ -8,31 +8,31 @@
 
 ## Education
 
-### Arizona State University <location> Tempe, AZ, USA </location> <time> Aug 2023 – Present </time>
+### Arizona State University<location> Tempe, AZ, USA</location> <time>Aug 2023 – Present</time>
 
 - B.S. in Computer Science
 - GPA: 3.95 | Expected Graduation: Dec 2025
 - Dean's List Spring 2024
 
-### Community College of The Air Force <location> Montgomery, AL, USA </location> <time> Jul 2009 – May 2014 </time>
+### Community College of The Air Force<location> Montgomery, AL, USA</location> <time>Jul 2009 – May 2014 </time>
 
 - A.A.S. in Aviation Maintenance Technology
 
 ## Experience
 
-### Lead Programmer <location>[ASU](https://github.com/Code-Level-Beard/ASU-CSE-360-G8) </location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
+### Lead Programmer <location>[ASU](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
 <skills>Java, JavaFX, SQLite</skills>
 
-- Broke six person team into three feature focused sub-teams, reduced crosstalk, increased dev momentum
+- Broke six-person team into three feature focused subteams, reduced crosstalk, increased dev momentum
 - Performed 37 merges, instrumental in synchronizing six-person team
-- Delivered all required specifications and one optional specifications on time
+- Delivered all required specifications and one optional specification on time
 
-### Open Source Contributor <location>[super-productivity.com](https://super-productivity.com) </location> <desc>Productivity App</desc><time>Apr 2022 – Jan 2024</time>
+### Open Source Contributor <location>[super-productivity.com](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
 
 <skills>SCSS, Angular.js</skills>
 
-- ID's regression bug by utilizing git bisect
+- ID'd regression bug by utilizing git bisect
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
 
 ## Projects
@@ -49,16 +49,16 @@
 <skills>C, C++, JSON</skills>
 
 - Created JSON parsing script in C, capable of parsing 1770 items in 0.78 ms
-- Implemented role playing mechanic is including: inventory, navigation, world state, and battle mechanices by
+- Implemented role playing mechanic including: inventory, navigation, world state, and battle mechanics by
   utilizing OOP principles
 
-### Linkedin Easy Apply Bot <desc>A digital assistant for Linkedin</desc> <time>Nov 2023 – Nov 2023</time>
+### LinkedIn Easy Apply Bot <desc>A digital assistant for LinkedIn</desc> <time>Nov 2023 – Nov 2023</time>
 
 <skills>Node.js, Playwright</skills>
 
-- Automated apllication bot, facilitated the application of over 400 job postings in 3 days
+- Automated application bot, facilitated the application of over 400 job postings in 3 days
 
-### Memespace <desc>Social app for memes</desc> <time>Nov 2022 – Sep 2023 </time>
+### MemeSpace <desc>Social app for memes</desc> <time>Nov 2022 – Sep 2023 </time>
 
 <skills> Next.js, Firebase, React.js, TailwindCSS, TypeScript </skills>
 
@@ -69,7 +69,7 @@
 - Documented coding conventions, reduced decision fatigue and enabled efficient development
 - Integrated external API, created modules for fetching and UI, resulting in access to 999 memes
 
-### Battle Ship <desc>Board game</desc> <time>Apr 2022 – May 2022 </time>
+### Battleship <desc>Board game</desc> <time>Apr 2022 – May 2022 </time>
 
 <skills>Jest, Webpack, JavaScript, SCSS</skills>
 
