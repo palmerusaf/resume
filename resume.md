@@ -2,9 +2,9 @@
 
 <span class="name">Branden Palmer</span>
 
-<span class="info"> [![Mail](https://simpleicons.org/icons/minutemailer.svg) brandenpalmer08@gmail.com](mailto:brandenpalmer08@gmail.com)
-[![LinkedIn](https://simpleicons.org/icons/linkedin.svg) linkedin.com/in/branden-palmer](https://linkedin.com/in/branden-palmer)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/palmerusaf](https://github.com/palmerusaf) </span>
+<span class="info"> [brandenpalmer08@gmail.com](mailto:brandenpalmer08@gmail.com) \/
+[linkedin.com/in/branden-palmer](https://linkedin.com/in/branden-palmer) \/
+[github.com/palmerusaf](https://github.com/palmerusaf) </span>
 
 ## Education
 
