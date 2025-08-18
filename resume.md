@@ -26,7 +26,7 @@
 
 - Broke six-person team into three feature focused subteams, reduced crosstalk, increased dev momentum
 - Performed 37 merges, instrumental in synchronizing six-person team
-- Delivered all required specifications and one optional specification on time
+- Delivered all required specifications on time
 
 ### Open Source Contributor <location>[super-productivity.com](https://super-productivity.com)</location> <desc>Productivity App</desc>
 
@@ -62,7 +62,7 @@
 
 ### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
 
-- Held active secret security clearance
+<skills>Held active secret security clearance</skills>
 
 ## Technical Skills
 
