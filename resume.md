@@ -54,7 +54,7 @@
 
 <skills>C, C++, JSON</skills>
 
-- Created JSON parsing script in C, capable of parsing 1770 items in 0.78 ms
+- Created JSON parsing script in C, capable of parsing 1,770 items in 0.78 ms
 - Implemented role playing mechanic including: inventory, navigation, world state, and battle mechanics by
   utilizing OOP principles
 
