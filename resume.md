@@ -52,17 +52,6 @@
 - Implemented role playing mechanic including: inventory, navigation, world state, and battle mechanics by
   utilizing OOP principles
 
-### MemeSpace <location>[Link](https://github.com/palmerusaf/memespace)</location> <desc>Social app for memes</desc> <time>Nov 2022 – Sep 2023 </time>
-
-<skills> Next.js, Firebase, React.js, TailwindCSS, TypeScript </skills>
-
-- Integrated Firebase BaaS for storage and user auth
-- Added caching with React Query, optimized network performance
-- Isolated commit with Git bisect, technique instrumental in resolving build failure
-- Crafted troubleshooting template, reduced troubleshooting from two days to two hours
-- Documented coding conventions, reduced decision fatigue and enabled efficient development
-- Integrated external API, created modules for fetching and UI, resulting in access to 999 memes
-
 ### Battleship <location>[Link](https://github.com/palmerusaf/battle-ship)</location> <desc>Board game</desc> <time>Apr 2022 – May 2022 </time>
 
 <skills>Jest, Webpack, JavaScript, SCSS</skills>
@@ -80,27 +69,26 @@
 
 ## Completed Prerequisite Courses
 
-- Discrete Math for Computer Science (CS 331) <desc>ASU MAT 243: Discrete Math Structures</desc>
-  <skills>Grade: C+</skills>
+### Discrete Math for Computer Science (CS 331) <desc>ASU MAT 243: Discrete Math Structures</desc>
 
-- Introduction to Programming (CS 312) <desc>AU COMP 1210: Fundamentals of Computing 1</desc>
-  <skills>Grade: A</skills>
+<skills>Grade: C+</skills>
 
-- Data Structures (CS 314) <desc>ASU CSE 205: Object-Oriented Programming and Data Structures</desc>
-  <skills>Grade: A</skills>
+### Introduction to Programming (CS 312) <desc>AU COMP 1210: Fundamentals of Computing 1</desc>
 
-- Algorithms and Complexity (CS 331) <desc>ASU CSE 310: Data Structures and Algorithms</desc>
-  <skills>Grade: A</skills>
+<skills>Grade: A</skills>
 
-- Comp. Org. and Architecture (CS 429) <desc>ASU CSE 230: Comp. Org. and Assembly Lang. Prog.</desc>
-  <skills>Grade: A</skills>
+### Data Structures (CS 314) <desc>ASU CSE 205: Object-Oriented Programming and Data Structures</desc>
 
-- Principles of Computer Systems (CS 439) <desc>ASU CSE 330: Operating Systems</desc>
-  <skills>Grade: A-</skills>
+<skills>Grade: A</skills>
 
-## Technical Skills
+### Algorithms and Complexity (CS 331) <desc>ASU CSE 310: Data Structures and Algorithms</desc>
 
-- HTML/CSS, SCSS, Java, JavaScript, TypeScript, Bash, SQLite, C, C++, Lisp
-- React.js, Node.js, Next.js, Vite.js, Webpack, JavaFX
-- Git, VSCode, Neovim
-- Storybook.js, Firebase, Jest, TailwindCSS, React Query, Playwright, lodash
+<skills>Grade: A</skills>
+
+### Comp. Org. and Architecture (CS 429) <desc>ASU CSE 230: Comp. Org. and Assembly Lang. Prog.</desc>
+
+<skills>Grade: A</skills>
+
+### Principles of Computer Systems (CS 439) <desc>ASU CSE 330: Operating Systems</desc>
+
+<skills>Grade: A-</skills>
