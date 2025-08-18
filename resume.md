@@ -36,7 +36,7 @@
 
 ### Super Productivity <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time><location>[Link](https://super-productivity.com)</location>
 
-<skills>SCSS, Angular.js</skills>
+<skills>Angular.js</skills>
 
 - ID'd regression bug by utilizing git bisect
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
@@ -51,14 +51,14 @@
 
 ### Polyfill Pwn Protector <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time><location>[Link](https://github.com/palmerusaf/polyfill-pwn-protector)</location>
 
-<skills>JSON, JavaScript</skills>
+<skills>JavaScript</skills>
 
 - Protects users against 380K sites infected with polyfill attack by blocking and replacing infected polyfill domain
 - Published three days after attack
 
 ### MUD Terminal game <desc>Text based dungeon crawler</desc> <time>Nov 2023 – Dec 2023 </time>
 
-<skills>C, C++, JSON</skills>
+<skills>C, C++</skills>
 
 - Created JSON parsing script in C, capable of parsing 1,770 items in 0.78 ms
 - Implemented role playing mechanic including: inventory, navigation, world state, and battle mechanics by
@@ -66,7 +66,7 @@
 
 ### Battleship <desc>Board game</desc> <time>Apr 2022 – May 2022 </time><location>[Link](https://github.com/palmerusaf/battle-ship)</location>
 
-<skills>Jest, Webpack, JavaScript, SCSS</skills>
+<skills>Jest, Webpack, JavaScript </skills>
 
 - Implemented 35 tests using TDD across 3 modules, 16 functions, enabling safe refactorings/robust game logic
 - Applied refactoring principles, allowing new feature implementation in 15 minutes
