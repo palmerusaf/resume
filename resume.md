@@ -8,7 +8,7 @@
 
 ## Education
 
-### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2023 – Dec 2025</time>
+### Arizona State University <location>Tempe, AZ, USA</location> <time>May 2020 – Dec 2025</time>
 
 - B.S. in Computer Science
 - GPA: 3.87 | Dean's List Spring 2024, Fall 2024, Spring 2025
@@ -69,26 +69,26 @@
 
 ## Completed Prerequisite Courses
 
-### Discrete Math for Computer Science (CS 331) <desc>ASU MAT 243: Discrete Math Structures</desc>
+### Discrete Math for Computer Science (CS 331) <desc>ASU MAT 243: Discrete Math Structures</desc> <time>Fall 2020</time>
 
 <skills>Grade: C+</skills>
 
-### Introduction to Programming (CS 312) <desc>AU COMP 1210: Fundamentals of Computing 1</desc>
+### Introduction to Programming (CS 312) <desc>AU COMP 1210: Fundamentals of Computing 1</desc> <time>Spring 2017</time>
 
 <skills>Grade: A</skills>
 
-### Data Structures (CS 314) <desc>ASU CSE 205: Object-Oriented Programming and Data Structures</desc>
+### Data Structures (CS 314) <desc>ASU CSE 205: Object-Oriented Programming and Data Structures</desc> <time>Summer 2020</time>
 
 <skills>Grade: A</skills>
 
-### Algorithms and Complexity (CS 331) <desc>ASU CSE 310: Data Structures and Algorithms</desc>
+### Algorithms and Complexity (CS 331) <desc>ASU CSE 310: Data Structures and Algorithms</desc> <time>Spring 2024</time>
 
 <skills>Grade: A</skills>
 
-### Comp. Org. and Architecture (CS 429) <desc>ASU CSE 230: Comp. Org. and Assembly Lang. Prog.</desc>
+### Comp. Org. and Architecture (CS 429) <desc>ASU CSE 230: Comp. Org. and Assembly Lang. Prog.</desc> <time>Fall 2020</time>
 
 <skills>Grade: A</skills>
 
-### Principles of Computer Systems (CS 439) <desc>ASU CSE 330: Operating Systems</desc>
+### Principles of Computer Systems (CS 439) <desc>ASU CSE 330: Operating Systems</desc> <time>Fall 2024</time>
 
 <skills>Grade: A-</skills>
