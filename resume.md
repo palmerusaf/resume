@@ -20,7 +20,7 @@
 
 ## Experience
 
-### Software Developer <location>[ASU](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc>
+### Full-Stack Developer <location>[ASU](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc>
 
 <skills>Java, JavaFX, SQLite</skills>
 
