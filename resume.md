@@ -78,6 +78,26 @@
 
 <skills>Held active secret security clearance</skills>
 
+## Completed Prerequisite Courses
+
+- Discrete Math for Computer Science (CS 331) <desc>ASU MAT 243: Discrete Math Structures</desc>
+  <skills>Grade: C+</skills>
+
+- Introduction to Programming (CS 312) <desc>AU COMP 1210: Fundamentals of Computing 1</desc>
+  <skills>Grade: A</skills>
+
+- Data Structures (CS 314) <desc>ASU CSE 205: Object-Oriented Programming and Data Structures</desc>
+  <skills>Grade: A</skills>
+
+- Algorithms and Complexity (CS 331) <desc>ASU CSE 310: Data Structures and Algorithms</desc>
+  <skills>Grade: A</skills>
+
+- Comp. Org. and Architecture (CS 429) <desc>ASU CSE 230: Comp. Org. and Assembly Lang. Prog.</desc>
+  <skills>Grade: A</skills>
+
+- Principles of Computer Systems (CS 439) <desc>ASU CSE 330: Operating Systems</desc>
+  <skills>Grade: A-</skills>
+
 ## Technical Skills
 
 - HTML/CSS, SCSS, Java, JavaScript, TypeScript, Bash, SQLite, C, C++, Lisp
