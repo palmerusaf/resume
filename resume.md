@@ -18,9 +18,9 @@
 
 - A.A.S. in Aviation Maintenance Technology
 
-## Experience
+## Open Source Contributions
 
-### Full-Stack Developer <location>[ASU](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
+### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
 <skills>Java, JavaFX, SQLite</skills>
 
@@ -28,16 +28,16 @@
 - Performed 37 merges, instrumental in synchronizing six-person team
 - Delivered all required specifications on time
 
-### Open Source Contributor <location>[super-productivity.com](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
+### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
 
 <skills>SCSS, Angular.js</skills>
 
 - ID'd regression bug by utilizing git bisect
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
 
-## Projects
+## Personal Projects
 
-### Polyfill Pwn Protector <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time>
+### Polyfill Pwn Protector <location>[Link](https://github.com/palmerusaf/polyfill-pwn-protector)</location> <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time>
 
 <skills>JSON, JavaScript</skills>
 
@@ -52,13 +52,7 @@
 - Implemented role playing mechanic including: inventory, navigation, world state, and battle mechanics by
   utilizing OOP principles
 
-### LinkedIn Easy Apply Bot <desc>A digital assistant for LinkedIn</desc> <time>Nov 2023 – Nov 2023</time>
-
-<skills>Node.js, Playwright</skills>
-
-- Automated application bot, facilitated the application of over 400 job postings in 3 days
-
-### MemeSpace <desc>Social app for memes</desc> <time>Nov 2022 – Sep 2023 </time>
+### MemeSpace <location>[Link](https://github.com/palmerusaf/memespace)</location> <desc>Social app for memes</desc> <time>Nov 2022 – Sep 2023 </time>
 
 <skills> Next.js, Firebase, React.js, TailwindCSS, TypeScript </skills>
 
@@ -69,7 +63,7 @@
 - Documented coding conventions, reduced decision fatigue and enabled efficient development
 - Integrated external API, created modules for fetching and UI, resulting in access to 999 memes
 
-### Battleship <desc>Board game</desc> <time>Apr 2022 – May 2022 </time>
+### Battleship <location>[Link](https://github.com/palmerusaf/battle-ship)</location> <desc>Board game</desc> <time>Apr 2022 – May 2022 </time>
 
 <skills>Jest, Webpack, JavaScript, SCSS</skills>
 
