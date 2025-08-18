@@ -20,6 +20,12 @@
 
 ## Open Source Contributions
 
+### Job Sourcerer <desc>A centralized job application platform</desc> <time>Jan 2024 – Apr 2024</time><location>[Link](https://github.com/palmerusaf/ASU-Capstone)</location>
+
+<skills> Jira, React, TailwindCSS, Typescript, WXT </skills>
+
+- Setup CD/CI pipeline, facilitating 3 seamless deployments to web extension store
+
 ### G8 Medical Technology <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time><location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location>
 
 <skills>Java, JavaFX, SQLite</skills>
