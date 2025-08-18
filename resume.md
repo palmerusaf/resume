@@ -37,6 +37,12 @@
 
 ## Personal Projects
 
+### Targeted Marketing Report <desc>Data Visualization</desc> <time>May 2025 – Jul 2025 </time><location>[Link](https://github.com/palmerusaf/data-vis-pj/blob/final-report/Branden%20Palmer_CSE%20578_Course%20Project%20Final%20Report.pdf)</location>
+
+<skills>Python, Sklearn, Numpy, Pandas, Plotly</skills>
+
+- Processed 32,561 data points, producing 5 unique visualizations to fulfill key insights for targeted marketing report
+
 ### Polyfill Pwn Protector <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time><location>[Link](https://github.com/palmerusaf/polyfill-pwn-protector)</location>
 
 <skills>JSON, JavaScript</skills>
