@@ -69,8 +69,6 @@
 <skills>Jest, Webpack, JavaScript </skills>
 
 - Implemented 35 tests using TDD across 3 modules, 16 functions, enabling safe refactorings/robust game logic
-- Applied refactoring principles, allowing new feature implementation in 15 minutes
-- Implemented a style system using SCSS and the BEM method, with separate files for each screen, resulting in a coherent, easy-to-use, high-quality style system
 - Created custom rendering system with Vanilla JS, resulting in modular rendering API supporting 18 components across four screens
 
 ## Other Experience
