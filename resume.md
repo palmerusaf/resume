@@ -82,8 +82,7 @@
 
 ### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
 
-- Fill-in shift supervisor, coordinated maintenance activities across 5 different specialties
-- Hand selected for aircraft engine run certification
+- Held active secret security clearance
 
 ## Technical Skills
 
