@@ -23,7 +23,13 @@
 
 ### Job Sourcerer <desc>A centralized job application platform</desc> <time>Jan 2024 – Apr 2024</time><location>[Link](https://github.com/palmerusaf/ASU-Capstone)</location>
 
-<skills> Jira, React, TailwindCSS, Typescript, WXT </skills>
+<skills> 
+Typescript,
+React,
+PostgreSQL,
+Jira,
+WXT 
+</skills>
 
 - Setup CD/CI pipeline, facilitating 3 seamless deployments to web extension store
 
