@@ -21,7 +21,7 @@
 
 ## Open Source Contributions
 
-### Job Sourcerer <desc>A centralized job application platform</desc> <time>Jan 2024 – Apr 2024</time><location>[Link](https://github.com/palmerusaf/ASU-Capstone)</location>
+### Job Sourcerer <desc>A centralized job application platform</desc> <time>Jan 2025 – Apr 2025</time><location>[Link](https://github.com/palmerusaf/ASU-Capstone)</location>
 
 <skills> 
 Typescript,
