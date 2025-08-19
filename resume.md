@@ -13,6 +13,7 @@
 - B.S. in Computer Science
 - GPA: 3.87 | Dean's List Spring 2024, Fall 2024, Spring 2025
 - Accepted into Accelerated Master in Computer Science Program
+- Relevant Coursework: Intro. Machine Learning | Intro. Theoretical CS | Data Visualization | Distributed Software Development
 
 ### Community College of The Air Force <location>Montgomery, AL, USA</location> <time>Jul 2009 – May 2014 </time>
 
