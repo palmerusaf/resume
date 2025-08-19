@@ -79,26 +79,26 @@
 
 ## Completed Prerequisite Coursework
 
-### Discrete Math for Computer Science (CS 331) <desc>ASU MAT 243: Discrete Math Structures</desc> <time>Fall 2020</time>
+### Discrete Math for Computer Science (CS 331) <desc>ASU MAT 243: Discrete Math Structures</desc> <time>Fall 2020</time><location>[Link](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=77282&searchType=all&term=2207#detailsOpen=77282-107272)</location>
 
 <skills>Grade: C+</skills>
 
-### Introduction to Programming (CS 312) <desc>AU COMP 1210: Fundamentals of Computing 1</desc> <time>Spring 2017</time>
+### Introduction to Programming (CS 312) <desc>AU COMP 1210: Fundamentals of Computing 1</desc> <time>Spring 2017</time><location>[Link](https://bulletin.auburn.edu/archivedbulletins/2017-2018/coursesofinstruction/comp/)</location>
 
 <skills>Grade: A</skills>
 
-### Data Structures (CS 314) <desc>ASU CSE 205: Object-Oriented Programming and Data Structures</desc> <time>Summer 2020</time>
+### Data Structures (CS 314) <desc>ASU CSE 205: Object-Oriented Programming and Data Structures</desc> <time>Summer 2020</time><location>[Link](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=47734&searchType=all&term=2204#detailsOpen=47734-104182)</location>
 
 <skills>Grade: A</skills>
 
-### Algorithms and Complexity (CS 331) <desc>ASU CSE 310: Data Structures and Algorithms</desc> <time>Spring 2024</time>
+### Algorithms and Complexity (CS 331) <desc>ASU CSE 310: Data Structures and Algorithms</desc> <time>Spring 2024</time><location>[Link](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=35290&searchType=all&term=2241#detailsOpen=35290-104190)</location>
 
 <skills>Grade: A</skills>
 
-### Comp. Org. and Architecture (CS 429) <desc>ASU CSE 230: Comp. Org. and Assembly Lang. Prog.</desc> <time>Fall 2020</time>
+### Comp. Org. and Architecture (CS 429) <desc>ASU CSE 230: Comp. Org. and Assembly Lang. Prog.</desc> <time>Fall 2020</time><location>[Link](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=82412&searchType=all&term=2207#detailsOpen=82412-104185)</location>
 
 <skills>Grade: A</skills>
 
-### Principles of Computer Systems (CS 439) <desc>ASU CSE 330: Operating Systems</desc> <time>Fall 2024</time>
+### Principles of Computer Systems (CS 439) <desc>ASU CSE 330: Operating Systems</desc> <time>Fall 2024</time><location>[Link](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86385&searchType=all&term=2247#detailsOpen=86385-104207)</location>
 
 <skills>Grade: A-</skills>
