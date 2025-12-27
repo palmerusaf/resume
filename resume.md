@@ -38,8 +38,9 @@ WXT
 </skills>
 
 - Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
-<!-- TODO: data visualization -->
 <!-- TODO: ATS -->
+- Handcrafted client side ATS algorithm utilizing cosine of similarity, achieved resume to job description matching within 5% of paid service at virtually no cost
+<!-- TODO: data visualization -->
 
 
 
