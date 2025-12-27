@@ -5,7 +5,6 @@
 <span class="info">
 [205-353-1613](tel:+12053531613) \/
 [brandenpalmer08@gmail.com](mailto:brandenpalmer08@gmail.com) \/
-[linkedin.com/in/branden-palmer](https://linkedin.com/in/branden-palmer) \/
 [github.com/palmerusaf](https://github.com/palmerusaf)
 </span>
 
