@@ -24,10 +24,10 @@
 - A.A.S. in Aviation Maintenance Technology
 
 ## Open Source Contributions
-### Job Sourcerer <location>[Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform.</desc> <time>Jan 2025 – Dec 2025</time>
+### Job Sourcerer <location>[Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
 
 <skills>
-Drizzle
+Drizzle ORM
 PGLite
 PostgreSQL
 React
@@ -38,9 +38,11 @@ WXT
 </skills>
 
 - Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
-<!-- TODO: ATS -->
-- Handcrafted client side ATS algorithm utilizing cosine of similarity, achieved resume to job description matching within 5% of paid service at virtually no cost
-<!-- TODO: data visualization -->
+- Handcrafted client side ATS algorithm utilizing cosine of similarity, achieved resume to job description matching within 5% of paid service at zero cost
+- Designed and built a cross-browser job application management extension (Chrome & Firefox) that automates job tracking, resume management, and application status workflows
+- Implemented browser extension architecture using background, content, and popup scripts to extract job data from third-party sites (e.g., Handshake) and persist structured records locally
+- Developed a client-side data layer using Drizzle ORM with a PGLite-backed database to manage jobs, resumes, and derived analytics without a backend dependency
+- Built a responsive dashboard with React, TypeScript, and Tailwind, supporting bulk actions, filtering, resume job linking, and real-time stat computation
 
 
 
