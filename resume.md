@@ -24,7 +24,7 @@
 - A.A.S. in Aviation Maintenance Technology
 
 ## Open Source Contributions
-### Job Sourcerer <location>[Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform.</desc> <time>Jan 2025 – Present</time>
+### Job Sourcerer <location>[Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform.</desc> <time>Jan 2025 – Dec 2025</time>
 
 <skills>
 Drizzle
@@ -37,7 +37,11 @@ TypeScript
 WXT
 </skills>
 
-- TODO:
+- Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
+<!-- TODO: data visualization -->
+<!-- TODO: ATS -->
+
+
 
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
