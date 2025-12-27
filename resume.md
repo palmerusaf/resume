@@ -10,7 +10,11 @@
 
 ## Education
 
-### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2023 – Dec 2025</time>
+### University of Texas at Austin<location>Austin, TX, USA</location> <time>Jan 2026 – May 2029</time>
+
+- M.S. in Computer Science 
+
+### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2020 – Dec 2025</time>
 
 - B.S. in Computer Science | Summa Cum Laude
 - GPA: 3.83 | Dean's List Spring 2024, Fall 2024, Spring 2025, Fall 2025
