@@ -10,9 +10,8 @@
 
 ### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2023 – Dec 2025</time>
 
-- B.S. in Computer Science
-- GPA: 3.87 | Dean's List Spring 2024, Fall 2024, Spring 2025
-- Accepted into Accelerated Master in Computer Science Program
+- B.S. in Computer Science | Summa Cum Laude
+- GPA: 3.83 | Dean's List Spring 2024, Fall 2024, Spring 2025, Fall 2025
 
 ### Community College of The Air Force <location>Montgomery, AL, USA</location> <time>Jul 2009 – May 2014 </time>
 
