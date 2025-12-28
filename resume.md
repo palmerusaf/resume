@@ -80,34 +80,6 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 - Protects users against 380K sites infected with polyfill attack by blocking and replacing infected polyfill domain
 - Published three days after attack
 
-### MUD Terminal game <desc>Text based dungeon crawler</desc> <time>Nov 2023 – Dec 2023 </time>
-
-<skills>C C++ JSON</skills>
-
-- Created JSON parsing script in C, capable of parsing 1770 items in 0.78 ms
-- Implemented role playing mechanic including: inventory, navigation, world state, and battle mechanics by
-  utilizing OOP principles
-
-### MemeSpace <location>[Link](https://github.com/palmerusaf/memespace)</location> <desc>Social app for memes</desc> <time>Nov 2022 – Sep 2023 </time>
-
-<skills> Next.js Firebase React.js TailwindCSS TypeScript </skills>
-
-- Integrated Firebase BaaS for storage and user auth
-- Added caching with React Query, optimized network performance
-- Isolated commit with Git bisect, technique instrumental in resolving build failure
-- Crafted troubleshooting template, reduced troubleshooting from two days to two hours
-- Documented coding conventions, reduced decision fatigue and enabled efficient development
-- Integrated external API, created modules for fetching and UI, resulting in access to 999 memes
-
-### Battleship <location>[Link](https://github.com/palmerusaf/battle-ship)</location> <desc>Board game</desc> <time>Apr 2022 – May 2022 </time>
-
-<skills>Jest Webpack JavaScript SCSS</skills>
-
-- Implemented 35 tests using TDD across 3 modules, 16 functions, enabling safe refactorings/robust game logic
-- Applied refactoring principles, allowing new feature implementation in 15 minutes
-- Implemented a style system using SCSS and the BEM method, with separate files for each screen, resulting in a coherent, easy-to-use, high-quality style system
-- Created custom rendering system with Vanilla JS, resulting in modular rendering API supporting 18 components across four screens
-
 ## Other Experience
 
 ### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
