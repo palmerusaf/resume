@@ -24,7 +24,7 @@
 - A.A.S. in Aviation Maintenance Technology
 
 ## Open Source Contributions
-### Job Sourcerer <location>[Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
+### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
 
 <skills>
 Drizzle ORM
