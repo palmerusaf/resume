@@ -62,6 +62,16 @@ WXT
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
 
 ## Personal Projects
+### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
+
+<skills>
+Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
+</skills>
+
+- Applied stylometry and NLP techniques to analyze authorship signals across multiple text corpora using TF-IDF, character n-grams, and sentence-level features
+- Built an end-to-end text analysis pipeline in Python, including HTML parsing, text normalization, feature extraction, and exploratory visualization
+- Reduced high-dimensional linguistic feature spaces using PCA and visualized clustering behavior to compare content-based vs style-based representations
+- Evaluated methodological limitations of stylometry on short-form texts, demonstrating how data volume and shared background can confound authorship attribution
 
 ### Polyfill Pwn Protector <location>[Link](https://github.com/palmerusaf/polyfill-pwn-protector)</location> <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time>
 
