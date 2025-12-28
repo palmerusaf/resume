@@ -37,12 +37,11 @@ TypeScript
 WXT
 </skills>
 
-- Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
-- Handcrafted client side ATS algorithm utilizing cosine of similarity, achieved resume to job description matching within 5% of paid service at zero cost
-- Designed and built a cross-browser job application management extension (Chrome & Firefox) that automates job tracking, resume management, and application status workflows
-- Implemented browser extension architecture using background, content, and popup scripts to extract job data from third-party sites (e.g., Handshake) and persist structured records locally
-- Developed a client-side data layer using Drizzle ORM with a PGLite-backed database to manage jobs, resumes, and derived analytics without a backend dependency
-- Built a responsive dashboard with React, TypeScript, and Tailwind, supporting bulk actions, filtering, resume job linking, and real-time stat computation
+- Designed and implemented data analysis pipelines to evaluate resume-to-job matching using vector similarity techniques
+- Conducted trade studies comparing matching methodologies and optimized scoring accuracy to within 5% of paid ATS tools
+- Built tooling to extract, normalize, and validate structured data from third-party systems
+- Developed workflows emphasizing repeatability, reliability, and data integrity
+- Worked in a multi-developer team environment using CI/CD, code reviews, and regression testing
 
 
 
@@ -50,9 +49,10 @@ WXT
 
 <skills>Java JavaFX SQLite</skills>
 
-- Broke six-person team into three feature focused subteams, reduced crosstalk, increased dev momentum
-- Performed 37 merges, instrumental in synchronizing six-person team
-- Delivered all required specifications on time
+- Coordinated work across a six-person engineering team using feature-based task decomposition
+- Supported integration, testing, and delivery of all required system functionality
+- Ensured consistent documentation and version control practices
+- Assisted with verification of requirements and final system validation
 
 ### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
 
@@ -68,10 +68,10 @@ WXT
 Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 </skills>
 
-- Applied stylometry and NLP techniques to analyze authorship signals across multiple text corpora using TF-IDF, character n-grams, and sentence-level features
-- Built an end-to-end text analysis pipeline in Python, including HTML parsing, text normalization, feature extraction, and exploratory visualization
-- Reduced high-dimensional linguistic feature spaces using PCA and visualized clustering behavior to compare content-based vs style-based representations
-- Evaluated methodological limitations of stylometry on short-form texts, demonstrating how data volume and shared background can confound authorship attribution
+- Performed statistical and exploratory data analysis on large text datasets
+- Built reproducible analysis workflows including data ingestion, normalization, dimensionality reduction (PCA), and visualization
+- Evaluated methodological limitations and documented assumptions, constraints, and sources of error
+- Presented findings using clear visualizations and written technical summaries
 
 ### Polyfill Pwn Protector <location>[Link](https://github.com/palmerusaf/polyfill-pwn-protector)</location> <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time>
 
@@ -86,9 +86,14 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 
 <skills>Held active secret security clearance</skills>
 
+- Supported flight-critical aircraft systems in deployed operational environments
+- Executed maintenance, inspection, and corrective actions in accordance with technical orders and quality standards
+- Collaborated with engineering, QA, and production teams to resolve non-conformances and return aircraft to service
+- Developed strong discipline in safety, documentation, and process compliance under mission-critical constraints
+
 ## Technical Skills
 
-- HTML/CSS, SCSS, Java, JavaScript, TypeScript, Bash, SQLite, C, C++, Lisp
-- React.js, Node.js, Next.js, Vite.js, Webpack, JavaFX
-- Git, VSCode, Neovim
-- Storybook.js, Firebase, Jest, TailwindCSS, React Query, Playwright, lodash
+
+- Data Analysis, Trade Studies, Tool Development, Workflow Automation Python (pandas, NumPy), SQL, Statistical Analysis Documentation & Technical Reporting
+- Java, C, C++, JavaScript, TypeScript, Bash Git, CI/CD (GitHub Actions) React, Node.js
+- Microsoft Excel, Word, PowerPoint Linux, VS Code, Neovim
