@@ -88,7 +88,7 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 
 ## Technical Skills
 
-- HTML/CSS, SCSS, Java, JavaScript, TypeScript, Bash, SQLite, C, C++, Lisp
+- HTML/CSS, SCSS, Java, JavaScript, TypeScript, Bash, SQLite, Python, R
 - React.js, Node.js, Next.js, Vite.js, Webpack, JavaFX
 - Git, VSCode, Neovim
-- Storybook.js, Firebase, Jest, TailwindCSS, React Query, Playwright, lodash
+- Firebase, Jest, TailwindCSS, React Query, Playwright
