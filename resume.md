@@ -34,7 +34,7 @@
 - Built and maintained modular React components with responsive layouts, ensuring compatibility across Chrome and Firefox
 - Implemented automated CI/CD pipelines using GitHub Actions, improving release reliability and reducing regression risk
 - Developed and maintained structured data models using SQL-backed storage, enabling filtering, reporting, and analytics
-- Authored technical documentation including developer setup instructions and user guides, detailing system architecture, data flows, and extension lifecycle behavior.
+- Authored technical documentation including developer setup instructions and user guides, detailing system architecture, data flows, and extension lifecycle behavior
 - Provided ongoing maintenance and feature enhancements across multiple releases
 
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
