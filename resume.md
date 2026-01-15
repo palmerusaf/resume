@@ -69,13 +69,6 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 - Reduced high-dimensional linguistic feature spaces using PCA and visualized clustering behavior to compare content-based vs style-based representations
 - Evaluated methodological limitations of stylometry on short-form texts, demonstrating how data volume and shared background can confound authorship attribution
 
-### Polyfill Pwn Protector <location>[Link](https://github.com/palmerusaf/polyfill-pwn-protector)</location> <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time>
-
-<skills>JSON JavaScript</skills>
-
-- Protects users against 380K sites infected with polyfill attack by blocking and replacing infected polyfill domain
-- Published three days after attack
-
 ## Other Experience
 
 ### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
