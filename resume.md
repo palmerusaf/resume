@@ -47,11 +47,13 @@ WXT
 
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
-<skills>Java JavaFX SQLite</skills>
+<skills>Java JavaFX SQLite Git</skills>
 
-- Broke six-person team into three feature focused subteams, reduced crosstalk, increased dev momentum
-- Performed 37 merges, instrumental in synchronizing six-person team
-- Delivered all required specifications on time
+- Developed and maintained a medical software application aligned with healthcare-related workflows
+- Collaborated with a six-person development team to implement features based on documented requirements
+- Assisted in debugging and resolving functional defects across multiple modules
+- Coordinated code integration efforts, completing 37 successful merges to ensure stable delivery
+- Contributed to project documentation and ensured all functional requirements were delivered on schedule
 
 ### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
 
