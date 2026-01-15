@@ -12,7 +12,7 @@
 
 ### University of Texas at Austin<location>Austin, TX, USA</location> <time>Jan 2026 – May 2029</time>
 
-- M.S. in Computer Science 
+- M.S. in Computer Science
 
 ### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2020 – Dec 2025</time>
 
@@ -24,6 +24,7 @@
 - A.A.S. in Aviation Maintenance Technology
 
 ## Open Source Contributions
+
 ### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
 
 <skills>
@@ -44,8 +45,6 @@ WXT
 - Developed a client-side data layer using Drizzle ORM with a PGLite-backed database to manage jobs, resumes, and derived analytics without a backend dependency
 - Built a responsive dashboard with React, TypeScript, and Tailwind, supporting bulk actions, filtering, resume job linking, and real-time stat computation
 
-
-
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
 <skills>Java JavaFX SQLite</skills>
@@ -56,12 +55,15 @@ WXT
 
 ### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
 
-<skills>SCSS Angular.js</skills>
+<skills>JavaScript AngularJS SCSS Git</skills>
 
-- ID'd regression bug by utilizing git bisect
-- Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
+- Debugged production issues in a large-scale AngularJS application used by thousands of users
+- Identified regression sources using git bisect, isolating root causes efficiently
+- Implemented UI fixes and enhancements while maintaining existing application behavior
+- Collaborated with maintainers through code reviews and documentation to ensure long-term maintainability
 
 ## Personal Projects
+
 ### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
 
 <skills>
