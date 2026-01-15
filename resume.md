@@ -27,23 +27,15 @@
 
 ### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
 
-<skills>
-Drizzle ORM
-PGLite
-PostgreSQL
-React
-Shadcn
-TailwindCSS
-TypeScript
-WXT
-</skills>
+<skills>JavaScript TypeScript React Node.js Drizzle ORM PostgreSQL TailwindCSS Git CI/CD</skills>
 
-- Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
-- Handcrafted client side ATS algorithm utilizing cosine of similarity, achieved resume to job description matching within 5% of paid service at zero cost
-- Designed and built a cross-browser job application management extension (Chrome & Firefox) that automates job tracking, resume management, and application status workflows
-- Implemented browser extension architecture using background, content, and popup scripts to extract job data from third-party sites (e.g., Handshake) and persist structured records locally
-- Developed a client-side data layer using Drizzle ORM with a PGLite-backed database to manage jobs, resumes, and derived analytics without a backend dependency
-- Built a responsive dashboard with React, TypeScript, and Tailwind, supporting bulk actions, filtering, resume job linking, and real-time stat computation
+- Designed, developed, tested, and debugged a cross-browser web application and structured data management
+- Collaborated with team members to translate user requirements into functional specifications and implemented enhancements based on user feedback
+- Built and maintained modular React components with responsive layouts, ensuring compatibility across Chrome and Firefox
+- Implemented automated CI/CD pipelines using GitHub Actions, improving release reliability and reducing regression risk
+- Developed and maintained structured data models using SQL-backed storage, enabling filtering, reporting, and analytics
+- Authored technical documentation including developer setup instructions and user guides, detailing system architecture, data flows, and extension lifecycle behavior.
+- Provided ongoing maintenance and feature enhancements across multiple releases
 
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
