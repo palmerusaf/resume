@@ -4,7 +4,8 @@
 
 <span class="info">
 [205-353-1613](tel:+12053531613) \/
-[brandenpalmer08@gmail.com](mailto:brandenpalmer08@gmail.com)
+[brandenpalmer08@gmail.com](mailto:brandenpalmer08@gmail.com) \/
+  Remlap, AL 35133
 </span>
 
 ## Experience
