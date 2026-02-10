@@ -12,8 +12,6 @@
 
 ### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
 
-<skills>Held active secret security clearance</skills>
-
 - Performed scheduled and unscheduled maintenance on F-16 aircraft, ensuring mission readiness and compliance with technical orders.
 - Diagnosed and resolved complex mechanical, hydraulic, electrical, and avionics discrepancies under strict time constraints.
 - Conducted pre-flight, thru-flight, and post-flight inspections to verify aircraft airworthiness and safety.
