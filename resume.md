@@ -10,7 +10,7 @@
 
 ## Experience
 
-### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
+### Senior Aircraft Maintenance Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
 
 - Performed scheduled and unscheduled maintenance on F-16 aircraft, ensuring mission readiness and compliance with technical orders.
 - Diagnosed and resolved complex mechanical, hydraulic, electrical, and avionics discrepancies under strict time constraints.
