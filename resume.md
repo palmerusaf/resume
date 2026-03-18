@@ -12,7 +12,7 @@
 
 ### University of Texas at Austin<location>Austin, TX, USA</location> <time>Jan 2026 – May 2029</time>
 
-- M.S. in Computer Science 
+- M.S. in Computer Science with a focus on Machine Learning/AI.
 
 ### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2020 – Dec 2025</time>
 
@@ -23,7 +23,14 @@
 
 - A.A.S. in Aviation Maintenance Technology
 
+## Military Service
+
+### Active Duty Air Force <time>Jul 2009 – Jul 2016</time>
+
+### Air National Guard <time>Jul 2016 – Mar 2021</time>
+
 ## Open Source Contributions
+
 ### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
 
 <skills>
@@ -44,8 +51,6 @@ WXT
 - Developed a client-side data layer using Drizzle ORM with a PGLite-backed database to manage jobs, resumes, and derived analytics without a backend dependency
 - Built a responsive dashboard with React, TypeScript, and Tailwind, supporting bulk actions, filtering, resume job linking, and real-time stat computation
 
-
-
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
 <skills>Java JavaFX SQLite</skills>
@@ -62,6 +67,7 @@ WXT
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
 
 ## Personal Projects
+
 ### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
 
 <skills>
@@ -85,10 +91,3 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 ### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
 
 <skills>Held active secret security clearance</skills>
-
-## Technical Skills
-
-- HTML/CSS, SCSS, Java, JavaScript, TypeScript, Bash, SQLite, C, C++, Lisp
-- React.js, Node.js, Next.js, Vite.js, Webpack, JavaFX
-- Git, VSCode, Neovim
-- Storybook.js, Firebase, Jest, TailwindCSS, React Query, Playwright, lodash
