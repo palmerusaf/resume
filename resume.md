@@ -19,9 +19,7 @@
 - B.S. in Computer Science | Summa Cum Laude
 - GPA: 3.83 | Dean's List Spring 2024, Fall 2024, Spring 2025, Fall 2025
 
-### Community College of The Air Force <location>Montgomery, AL, USA</location> <time>Jul 2009 – May 2014 </time>
-
-- A.A.S. in Aviation Maintenance Technology
+## Relevant Coursework
 
 ## Personal Projects
 
@@ -35,13 +33,6 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 - Built an end-to-end text analysis pipeline in Python, including HTML parsing, text normalization, feature extraction, and exploratory visualization
 - Reduced high-dimensional linguistic feature spaces using PCA and visualized clustering behavior to compare content-based vs style-based representations
 - Evaluated methodological limitations of stylometry on short-form texts, demonstrating how data volume and shared background can confound authorship attribution
-
-### Polyfill Pwn Protector <location>[Link](https://github.com/palmerusaf/polyfill-pwn-protector)</location> <desc>Web Security Browser Extension</desc> <time>Jun 2024 – Jun 2024 </time>
-
-<skills>JSON JavaScript</skills>
-
-- Protects users against 380K sites infected with polyfill attack by blocking and replacing infected polyfill domain
-- Published three days after attack
 
 ## Open Source Contributions
 
@@ -83,10 +74,3 @@ WXT
 ### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
 
 <skills>Held active secret security clearance</skills>
-
-## Technical Skills
-
-- HTML/CSS, SCSS, Java, JavaScript, TypeScript, Bash, SQLite, C, C++, Lisp
-- React.js, Node.js, Next.js, Vite.js, Webpack, JavaFX
-- Git, VSCode, Neovim
-- Storybook.js, Firebase, Jest, TailwindCSS, React Query, Playwright, lodash
