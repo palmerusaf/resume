@@ -19,9 +19,18 @@
 - B.S. in Computer Science | Summa Cum Laude
 - GPA: 3.83 | Dean's List Spring 2024, Fall 2024, Spring 2025, Fall 2025
 
-## Relevant Coursework
-
 ## Personal Projects
+
+### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Spring 2026</time>
+
+<skills>
+Python PyTorch Transformers CNNs CUDA NumPy Matplotlib
+</skills>
+
+- Built and trained deep learning models in PyTorch to predict future vehicle trajectories for autonomous driving from lane geometry and raw image inputs
+- Implemented and compared an MLP planner, Transformer-based planner, and CNN planner for waypoint prediction on the SuperTuxKart Drive Dataset
+- Developed model-agnostic training pipelines from scratch, including data loading, optimization, checkpointing, and offline evaluation
+- Evaluated planning accuracy using longitudinal and lateral trajectory error, comparing structured-input and end-to-end vision-based driving approaches
 
 ### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
 
