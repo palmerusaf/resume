@@ -24,7 +24,7 @@
 ### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Spring 2026</time>
 
 <skills>
-Python PyTorch Transformers CNNs CUDA NumPy Matplotlib
+Python PyTorch Transformers Tensorboard CNNs CUDA NumPy Matplotlib
 </skills>
 
 - Built and trained deep learning models in PyTorch to predict future vehicle trajectories for autonomous driving from lane geometry and raw image inputs
