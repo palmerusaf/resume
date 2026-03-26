@@ -19,7 +19,7 @@
 - B.S. in Computer Science | Summa Cum Laude
 - GPA: 3.83 | Dean's List Spring 2024, Fall 2024, Spring 2025, Fall 2025
 
-## Personal Projects
+## Projects
 
 ### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Spring 2026</time>
 
