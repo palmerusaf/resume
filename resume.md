@@ -32,7 +32,7 @@ Python PyTorch Transformers Tensorboard CNNs CUDA NumPy Matplotlib
 - Developed model-agnostic training pipelines from scratch, including data loading, optimization, checkpointing, and offline evaluation
 - Evaluated planning accuracy using longitudinal and lateral trajectory error, comparing structured-input and end-to-end vision-based driving approaches
 
-### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
+### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <location>Arizona State University</location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
 
 <skills>
 Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
