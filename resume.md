@@ -21,7 +21,7 @@
 
 ## Projects
 
-### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Spring 2026</time>
+### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Jan 2026 – Apr 2026</time>
 
 <skills>
 Python PyTorch Transformers Tensorboard CNNs CUDA NumPy Matplotlib
