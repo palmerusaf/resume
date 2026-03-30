@@ -21,7 +21,24 @@
 
 ## Projects
 
-### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Spring 2026</time>
+### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Present</time>
+
+<skills>
+Machine Learning
+PostgreSQL
+React
+SBERT
+TailwindCSS
+TypeScript
+</skills>
+
+- Grew user base to 17 active users with only 3 uninstalls, demonstrating strong product-market fit for job search automation
+- Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
+- Handcrafted state-of-the-art client side ATS algorithm utilizing cosine of similarity and SBERT semantic matching, achieved resume to job description matching within 5% of paid service at zero cost
+- Implemented browser extension architecture using background, content, and popup scripts to extract job data from third-party sites (e.g., Handshake) and persist structured records locally
+- Developed a client-side data layer using Drizzle ORM with a PGLite-backed database to manage jobs, resumes, and derived analytics without a backend dependency
+
+### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Jan 2026 – Apr 2026</time>
 
 <skills>
 Python PyTorch Transformers Tensorboard CNNs CUDA NumPy Matplotlib
@@ -44,24 +61,6 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 - Evaluated methodological limitations of stylometry on short-form texts, demonstrating how data volume and shared background can confound authorship attribution
 
 ## Open Source Contributions
-
-### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
-
-<skills>
-Drizzle ORM
-PGLite
-PostgreSQL
-React
-Shadcn
-TailwindCSS
-TypeScript
-WXT
-</skills>
-
-- Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
-- Handcrafted client side ATS algorithm utilizing cosine of similarity, achieved resume to job description matching within 5% of paid service at zero cost
-- Implemented browser extension architecture using background, content, and popup scripts to extract job data from third-party sites (e.g., Handshake) and persist structured records locally
-- Developed a client-side data layer using Drizzle ORM with a PGLite-backed database to manage jobs, resumes, and derived analytics without a backend dependency
 
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
