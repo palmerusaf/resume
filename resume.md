@@ -24,6 +24,7 @@
 ### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Present</time>
 
 <skills>
+CD/CI
 Machine Learning
 PostgreSQL
 React
@@ -41,7 +42,7 @@ TypeScript
 ### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Jan 2026 – Apr 2026</time>
 
 <skills>
-Python PyTorch Transformers Tensorboard CNNs CUDA NumPy Matplotlib
+Python PyTorch Transformers Tensorboard CNNs CUDA NumPy
 </skills>
 
 - Built and trained deep learning models in PyTorch to predict future vehicle trajectories for autonomous driving from lane geometry and raw image inputs
