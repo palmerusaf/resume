@@ -4,12 +4,16 @@
 
 <span class="info">
 [205-353-1613](tel:+12053531613) \/
-[brandenpalmer08@gmail.com](mailto:brandenpalmer08@gmail.com) 
+[brandenpalmer08@gmail.com](mailto:brandenpalmer08@gmail.com)
 </span>
+
+## Summary
+
+F-16 Crew Chief and Senior Aircraft Technician (2A373) with 11+ years of tactical aircraft maintenance experience. Expertise in leading daily maintenance operations, engine systems, flight control systems, and safety compliance. Successfully embedded with Iraqi Air Force to train technicians to 7-level senior technician status. Achieved engine run qualification and completed F-16 Advanced Crew Chief Certification. NCO Academy and Airman Leadership School graduate.
 
 ## Experience
 
-### F-16 Crew Chief / Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
+### F-16 Crew Chief / Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>2017 - 2020</time>
 
 - **Crew Chief Operations**: Led daily aircraft maintenance operations, coordinated maintenance activities, and ensured aircraft readiness for deployed missions
 - **Engine Systems**: Completed F100 Engine Inlet & Exhaust Inspection training (FEB 2013); achieved engine run qualification during deployment
@@ -20,7 +24,7 @@
 
 ## Military Experience
 
-### Tactical Aircraft Maintenance Craftsman <location>Air Force, Guard</location> <time>2009 – 2017</time>
+### Tactical Aircraft Maintenance Craftsman <location>Air Force, Guard</location> <time>2009 - 2017</time>
 
 - **Pay Grade**: E-6
 - **Primary Occupation**: 2A373, Tactical Aircraft Maintenance Craftsman
@@ -32,26 +36,23 @@
 - **Engine & Systems Maintenance**: Troubleshooted and maintained aircraft engines, hydraulic, and other related systems, structures, components, and related equipment. Removed and installed aircraft and engine components.
 - **Structural Integrity**: Inspected aircraft structures, engines, systems, components, and related systems. Identified and repaired aircraft corrosion for prevention and repair.
 - **Maintenance Support Functions**: Performed flight chief, production superintendent, expediter, crew chief, repair and reclamation, and maintenance support functions.
-- **Documentation & Quality Assurance**: Reviewed maintenance forms, aircraft records, automated maintenance data systems, and historical reports to ensure complete documentation.
 
 #### Training Completed:
 
-- **USAF NCO Academy** (NOV 2015) - 35 Days: Leadership and Management II, Managerial Communications II, Military Studies, Intro to Total Quality Management II
-- **CDDAR - Crashed, Damaged, Disabled Aircraft Recovery** (JAN 2015) - 1 Week, 2 Days: Aircraft crash recovery procedures, composite material response and handling
-- **Airman Leadership School** (FEB 2014) - 23 Days: Leadership and Management, Managerial Communications, Military Studies, Introduction to Total Quality Management
-- **F-16 Advanced Crew Chief Certification** (MAR 2013): Completed F-16 Advanced Crew Chief (Certification Training); held F-16 Maintenance Apprentice designation (FEB 2010, MAR 2010) with comprehensive knowledge of F-16 systems
+- **USAF NCO Academy** (Nov 2015) - 35 Days: Leadership and Management II, Managerial Communications II, Military Studies, Intro to Total Quality Management II
+- **CDDAR - Crashed, Damaged, Disabled Aircraft Recovery** (Jan 2015) - 1 Week, 2 Days: Aircraft crash recovery procedures, composite material response and handling
+- **Airman Leadership School** (Feb 2014) - 23 Days: Leadership and Management, Managerial Communications, Military Studies, Introduction to Total Quality Management
+- **F-16 Advanced Crew Chief Certification** (Mar 2013): Completed F-16 Advanced Crew Chief (Certification Training); held F-16 Maintenance Apprentice designation (Feb 2010, Mar 2010) with comprehensive knowledge of F-16 systems
 
 ## Education
 
-### Community College of The Air Force <location>Montgomery, AL, USA</location> <time>Jul 2009 – May 2014 </time>
+### Community College of The Air Force <location>Montgomery, AL, USA</location> <time>2009 - 2014</time>
 
 - A.A.S. in Aviation Maintenance Technology
 
 ## Technical Skills
 
-- Aircraft Structural Repair, Composite Materials, Metalworking, Corrosion Prevention
-- Engine Systems & Troubleshooting, Hydraulic Systems, F-16 Systems Knowledge
+- F-16 Aircraft Systems, F100 Engine Systems, Hydraulic Systems
 - Flight Control Systems, Weight & Balance, Control Surface Rigging
-- Technical Documentation, Quality Assurance, Maintenance Systems, Engineering Drawings
+- Aircraft Inspection, Maintenance Documentation, Quality Assurance
 - Safety Procedures (FOD Prevention), Tool Control, Safety Compliance
-- Leadership & Coordination, Crew Chief Operations, Mission Readiness Support
