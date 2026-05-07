@@ -12,7 +12,7 @@
 
 ### University of Texas at Austin<location>Austin, TX, USA</location> <time>Jan 2026 – May 2029</time>
 
-- M.S. in Computer Science 
+- M.S. in Computer Science
 
 ### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2020 – Dec 2025</time>
 
@@ -24,6 +24,7 @@
 - A.A.S. in Aviation Maintenance Technology
 
 ## Open Source Contributions
+
 ### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Dec 2025</time>
 
 <skills>
@@ -43,8 +44,6 @@ WXT
 - Developed workflows emphasizing repeatability, reliability, and data integrity
 - Worked in a multi-developer team environment using CI/CD, code reviews, and regression testing
 
-
-
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
 <skills>Java JavaFX SQLite</skills>
@@ -62,6 +61,7 @@ WXT
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
 
 ## Personal Projects
+
 ### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
 
 <skills>
@@ -84,20 +84,21 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 
 ### F-16 Crew Chief / Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
 
-<skills>AFSC 2A373 (6Y9M Tactical Aircraft Maintenance) | F-16 Advanced Crew Chief Certified (77V) | FAA Airframe & Powerplant Knowledge | Active Secret Security Clearance | NCO Academy Graduate</skills>
+<skills>AFSC 2A373 (11+ Years Tactical Aircraft Maintenance) | F-16 Advanced Crew Chief (77V) | Secret Security Clearance (Tier 3 Re-investigation 2019) | FAA Airframe & Powerplant Knowledge | NCO Academy Graduate</skills>
 
-- **F-16 Structural & Composite Repair**: Assessed and repaired F-16 structural and composite components including bonded honeycomb, fiberglass, and metal airframe structures using depot-level processes and technical data
-- **High-Strength Fastener Installation**: Removed and installed close tolerance, high-strength fasteners in major F-16 structural components; performed precision close tolerance drilling and reaming for F-100 engine inlet and exhaust inspection
-- **Structural Integrity & Corrosion Control**: Advised on structural repair, modification, and corrosion protection treatment to maintain original strength, weight, and contour; performed corrosion identification, removal, repair, and prevention on F-16 airframes
-- **Flight Control Systems & Rigging**: Performed post-repair flight control weight and balance functions and control surface rigging per designated technical orders and specifications
-- **Metalworking & Fabrication**: Utilized advanced metalworking practices and equipment to form, cut, bend, and fasten replacement/repair parts; manufactured jigs, fixtures, forms, and molds for F-16 repair components
+- **F-16 Advanced Crew Chief Certification**: Completed F-16 Advanced Crew Chief (Certification Training) in MAR 2013; held F-16 Maintenance Apprentice designation (FEB 2010, MAR 2010) with comprehensive knowledge of F-16 electromechanical, structures, and airframe systems
+- **Aircraft Damage Assessment & Structural Repair**: Inspected and assessed damage to F-16 structural components, formulated repair/replacement procedures utilizing technical data and engineering drawings for airframe and composite structures
+- **High-Strength Fastener Installation**: Removed and installed close tolerance, high-strength fasteners in major F-16 structural components, performing precision close tolerance drilling and reaming operations
+- **Structural Integrity & Corrosion Management**: Advised on structural repair, modification, and corrosion protection treatment to maintain original strength, weight, and contour; performed corrosion identification, removal, repair, and prevention
+- **Flight Control Systems**: Performed post-repair flight control weight and balance functions and control surface rigging per designated technical orders and specifications
+- **Metalworking & Fabrication**: Utilized advanced metalworking practices and equipment to form, cut, bend, and fasten replacement/repair parts; manufactured jigs, fixtures, forms, and molds for repair components
+- **Engine Systems**: Completed F100 Engine Inlet & Exhaust Inspection training (FEB 2013); supported engine maintenance and inspection procedures
 - **Quality Assurance & Documentation**: Documented maintenance per QA and regulatory requirements; closed completed maintenance discrepancies in automated maintenance systems; maintained equipment records and verified satisfactory work completion
 - **Safety & Tool Control**: Conducted regular Foreign Object Damage (FOD) walks; maintained strict tool control procedures; reported missing, lost, or unattended tools; complied with safety rules and regulations
-- **Technical Leadership**: Applied NCO Academy training and Airman Leadership School skills to mentor junior technicians and lead maintenance teams in deployed operational environments
-- **Aircraft Recovery**: Trained in crashed, damaged, disabled aircraft recovery procedures for emergency F-16 recovery operations
+- **Leadership & Training**: NCO Academy graduate (NOV 2015); Airman Leadership School graduate (FEB 2014); mentored junior technicians and provided technical guidance to maintenance crew
+- **Aircraft Recovery**: Completed Crashed/Damaged/Disabled Aircraft Recovery training (JAN 2015); trained in emergency F-16 recovery operations
 
 ## Technical Skills
-
 
 - Data Analysis, Trade Studies, Tool Development, Workflow Automation Python (pandas, NumPy), SQL, Statistical Analysis Documentation & Technical Reporting
 - Java, C, C++, JavaScript, TypeScript, Bash Git, CI/CD (GitHub Actions) React, Node.js
