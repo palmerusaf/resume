@@ -9,7 +9,7 @@
 
 ## Summary
 
-F-16 Crew Chief and Senior Aircraft Technician (2A373) with 11+ years of tactical aircraft maintenance experience. Expertise in leading daily maintenance operations, engine systems, flight control systems, and safety compliance. Successfully embedded with Iraqi Air Force to train technicians to 7-level senior technician status. Took a break from aviation to teach English in Thailand and pursue Bachelors degree. Currently pursuing Airframe and Powerplant(A&P) certification through prior military experience.
+F-16 Crew Chief and Senior Aircraft Technician (2A373) with 11+ years of tactical aircraft maintenance experience. Expertise in leading daily maintenance operations, engine systems, flight control systems, and safety compliance. Successfully embedded with Iraqi Air Force to train technicians to 7-level senior technician status. Took a break from aviation to teach English in Thailand and pursue Bachelor's degree. Currently pursuing Airframe and Powerplant (A&P) certification through prior military experience.
 
 ## Experience
 
