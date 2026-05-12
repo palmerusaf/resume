@@ -50,7 +50,7 @@ F-16 Crew Chief and Senior Aircraft Technician (2A373) with 11+ years of tactica
 
 - A.A.S. in Aviation Maintenance Technology
 
-### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2020 – Dec 2025</time>
+### Arizona State University <location>Tempe, AZ, USA</location> <time>2020 - 2025</time>
 
 - B.S. in Computer Science | Summa Cum Laude
 
