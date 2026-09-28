@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 
 <span class="name">Branden Palmer</span>
+<span class="info">**_Active Top Secret/SCI_** </span>
 
 <span class="info">
 [205-353-1613](tel:+12053531613) \/
