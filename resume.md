@@ -57,7 +57,6 @@ TailwindCSS
 TypeScript
 </skills>
 
-- Grew user base to 17 active users with only 3 uninstalls, demonstrating strong product-market fit for job search automation
 - Setup CD/CI pipeline utilizing GitHub Actions, enabling early regression detection and single click deployment to Firefox and Chrome Extension stores
 - Handcrafted state-of-the-art client side ATS algorithm utilizing cosine of similarity and SBERT semantic matching, achieved resume to job description matching within 5% of paid service at zero cost
 - Implemented browser extension architecture using background, content, and popup scripts to extract job data from third-party sites (e.g., Handshake) and persist structured records locally
@@ -66,11 +65,10 @@ TypeScript
 ### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Jan 2026 – Apr 2026</time>
 
 <skills>
-Python PyTorch Transformers Tensorboard CNNs CUDA NumPy
+Python PyTorch Transformers Tensorboard CNNs NumPy
 </skills>
 
 - Built and trained deep learning models in PyTorch to predict future vehicle trajectories for autonomous driving from lane geometry and raw image inputs
-- Implemented and compared an MLP planner, Transformer-based planner, and CNN planner for waypoint prediction on the SuperTuxKart Drive Dataset
 - Developed model-agnostic training pipelines from scratch, including data loading, optimization, checkpointing, and offline evaluation
 - Evaluated planning accuracy using longitudinal and lateral trajectory error, comparing structured-input and end-to-end vision-based driving approaches
 
