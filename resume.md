@@ -78,9 +78,3 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 
 - ID'd regression bug by utilizing git bisect
 - Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
-
-## Other Experience
-
-### Senior Aircraft Technician <location>Lockheed Martin, Balad AB, Iraq</location> <time>Dec 2017 – Jan 2020</time>
-
-<skills>Held active secret security clearance</skills>
