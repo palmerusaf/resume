@@ -22,6 +22,12 @@
 
 ## Open Source Contributions
 
+### Plotly.js <location>[Link]()</location> <desc>todo</desc> <time>todo</time>
+
+- Co-developed a core **map camera auto-centering and fit-to-data feature**, including geographic bounds handling and edge cases such as **anti-meridian wrapping**, now enabled by default in Plotly.js v4.
+- Optimized and benchmarked the implementation for **large point datasets**, while contributing targeted regression tests to ensure correctness across map subplot configurations.
+- Shipped functionality at the **core-library level**, propagating the capability to downstream Plotly libraries including **Plotly.py (~67M monthly downloads)** and extending its impact across the Plotly ecosystem.
+
 ### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
 
 <skills>Java JavaFX SQLite</skills>
