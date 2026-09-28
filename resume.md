@@ -20,6 +20,23 @@
 - B.S. in Computer Science | Summa Cum Laude
 - GPA: 3.83 | Dean's List Spring 2024, Fall 2024, Spring 2025, Fall 2025
 
+## Open Source Contributions
+
+### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
+
+<skills>Java JavaFX SQLite</skills>
+
+- Broke six-person team into three feature focused subteams, reduced crosstalk, increased dev momentum
+- Performed 37 merges, instrumental in synchronizing six-person team
+- Delivered all required specifications on time
+
+### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
+
+<skills>SCSS Angular.js</skills>
+
+- ID'd regression bug by utilizing git bisect
+- Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
+
 ## Projects
 
 ### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) \| [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Present</time>
@@ -61,20 +78,3 @@ Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
 - Built an end-to-end text analysis pipeline in Python, including HTML parsing, text normalization, feature extraction, and exploratory visualization
 - Reduced high-dimensional linguistic feature spaces using PCA and visualized clustering behavior to compare content-based vs style-based representations
 - Evaluated methodological limitations of stylometry on short-form texts, demonstrating how data volume and shared background can confound authorship attribution
-
-## Open Source Contributions
-
-### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
-
-<skills>Java JavaFX SQLite</skills>
-
-- Broke six-person team into three feature focused subteams, reduced crosstalk, increased dev momentum
-- Performed 37 merges, instrumental in synchronizing six-person team
-- Delivered all required specifications on time
-
-### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
-
-<skills>SCSS Angular.js</skills>
-
-- ID'd regression bug by utilizing git bisect
-- Corrected UI issue by isolating problematic SCSS, resulting change merged into production branch
