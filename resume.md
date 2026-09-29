@@ -22,7 +22,7 @@
 
 ## Open Source Contributions
 
-### Plotly.js <location>[Link]()</location> <desc>todo</desc> <time>todo</time>
+### Plotly.js <location>[Link](https://github.com/plotly/plotly.js/releases#release-v4.0.0)</location> <desc>Open-source JavaScript charting library behind Plotly and Dash</desc> <time>Dec 2025 – Aug 2026</time>
 
 - Co-developed a core **map camera auto-centering and fit-to-data feature**, including geographic bounds handling and edge cases such as **anti-meridian wrapping**, now enabled by default in Plotly.js v4.
 - Optimized and benchmarked the implementation for **large point datasets**, while contributing targeted regression tests to ensure correctness across map subplot configurations.
