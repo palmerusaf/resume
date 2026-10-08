@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<span class="name">Branden Palmer</span> <span class="info">**_Active Top Secret/SCI_** </span>
+<span class="name">Branden Palmer</span> <span class="info">**_Active Top Secret/SCI_**</span>
 
 <span class="info">
 [205-353-1613](tel:+12053531613) \/
@@ -8,75 +8,62 @@
 [github.com/palmerusaf](https://github.com/palmerusaf)
 </span>
 
+## Technical Skills
+
+- **Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Frameworks & Databases:** React, JavaFX, PostgreSQL, SQLite, PGlite, Drizzle ORM
+- **Tools & Practices:** Git, GitHub Actions, CI/CD, regression testing, Linux
+
 ## Education
 
-### University of Texas at Austin<location>Austin, TX, USA</location> <time>Jan 2026 – May 2029</time>
+### University of Texas at Austin <location>Austin, TX, USA</location> <time>Jan 2026 – May 2029</time>
 
-- M.S. in Computer Science | GPA: 4.00
+- M.S. in Computer Science (in progress) | GPA: 4.00
 
 ### Arizona State University <location>Tempe, AZ, USA</location> <time>Aug 2020 – Dec 2025</time>
 
-- B.S. in Computer Science | Summa Cum Laude | GPA: 3.83
+- B.S. in Computer Science | **Summa Cum Laude** | GPA: 3.83
 
-## Open Source Contributions
+## Software Engineering & Open Source
 
-### Plotly.js <location>[Link](https://github.com/plotly/plotly.js/releases#release-v4.0.0)</location> <desc>Open-source JavaScript charting library behind Plotly and Dash</desc> <time>Dec 2025 – Aug 2026</time>
+### Plotly.js <location>[Link](https://github.com/plotly/plotly.js/releases#release-v4.0.0)</location> <desc>Open-source JavaScript visualization library</desc> <time>Dec 2025 – Aug 2026</time>
 
-- Co-developed a core **map camera auto-centering and fit-to-data feature**, including geographic bounds handling and edge cases such as **anti-meridian wrapping**, now enabled by default in Plotly.js v4.
-- Optimized and benchmarked the implementation for **large point datasets**, while contributing targeted regression tests to ensure correctness across **map subplot configurations**.
-- Shipped functionality at the **core-library level**, propagating the capability to downstream Plotly libraries including **Plotly.py (~48M monthly downloads)** and extending its impact across the Plotly ecosystem.
+- Co-developed **map camera auto-centering and fit-to-data** functionality in the Plotly.js core library, including geographic bounds handling and **anti-meridian wrapping**; included by default in v4.
+- **Optimized and benchmarked performance** for large point datasets and added targeted **regression tests** across map configurations.
+- Delivered a core-library feature that also benefits downstream integrations, including **Plotly.py** (~48M monthly downloads at the time measured).
 
-### G8 Medical Technology <location>[Link](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Medical App</desc> <time>Jan 2024 – Apr 2024</time>
+### G8 Medical Technology <location>[Code](https://github.com/Code-Level-Beard/ASU-CSE-360-G8)</location> <desc>Team-developed medical application</desc> <time>Jan 2024 – Apr 2024</time>
 
 <skills>Java JavaFX SQLite</skills>
 
-- Broke **six-person team** into three feature-focused subteams, **reduced crosstalk**, and increased dev momentum
-- Performed **37 merges**, instrumental in synchronizing six-person team
-- Delivered **all required specifications on time**
+- Collaborated on a **Java/JavaFX application backed by SQLite**; organized a six-person team into three feature-focused groups to coordinate implementation and deliver requirements on time.
+- Integrated team contributions through **37 Git merges**, supporting development across the shared codebase.
 
-### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Productivity App</desc> <time>Apr 2022 – Jan 2024</time>
+### Super Productivity <location>[Link](https://super-productivity.com)</location> <desc>Open-source productivity application</desc> <time>Apr 2022 – Jan 2024</time>
 
 <skills>SCSS Angular.js</skills>
 
-- ID'd **regression bug** by utilizing **git bisect**
-- Corrected UI issue by isolating problematic **SCSS**, resulting change merged into **production branch**
+- Used **git bisect** to identify a regression, isolated the problematic **SCSS**, and contributed a fix merged into the production branch.
 
 ## Projects
 
-### Job Sourcerer <location>[Video](https://www.youtube.com/watch?v=gpi1XxVAMRw) | [Link](https://github.com/palmerusaf/job-sourcerer)</location> <desc>A centralized job application platform</desc> <time>Jan 2025 – Present</time>
+### Job Sourcerer <location>[Demo](https://www.youtube.com/watch?v=gpi1XxVAMRw) | [Code](https://github.com/palmerusaf/job-sourcerer)</location> <desc>Job application management platform</desc> <time>Jan 2025 – Present</time>
 
-<skills>
-CD/CI
-Machine Learning
-PostgreSQL
-React
-SBERT
-TailwindCSS
-TypeScript
-</skills>
+<skills>TypeScript React PostgreSQL PGlite Drizzle ORM GitHub Actions SBERT</skills>
 
-- Setup **CD/CI pipeline** utilizing GitHub Actions, enabling **early regression detection** and single-click deployment to Firefox and Chrome Extension stores
-- Handcrafted **state-of-the-art client-side ATS algorithm** utilizing cosine of similarity and **SBERT semantic matching**, achieved resume to job description matching within **5% of paid service at zero cost**
-- Implemented **browser extension architecture** using background, content, and popup scripts to extract job data from third-party sites (e.g., Handshake) and persist **structured records locally**
-- Developed a **client-side data layer** using Drizzle ORM with a **PGLite-backed database** to manage jobs, resumes, and derived analytics without a backend dependency
+- Built a **browser extension architecture** using background, content, and popup scripts to collect job postings and persist structured records locally.
+- Implemented a **client-side data layer** with Drizzle ORM and PGlite for job, resume, and analytics data without a backend service.
+- Set up **GitHub Actions CI/CD** to detect regressions and streamline deployment to Chrome and Firefox extension stores; implemented resume matching using **SBERT and cosine similarity**.
 
-### **Autonomous Driving Trajectory Prediction** <location>University of Texas at Austin</location> <desc>Deep Learning Project</desc> <time>Jan 2026 – Apr 2026</time>
+### Autonomous Driving Trajectory Prediction <location>University of Texas at Austin</location> <desc>Deep learning project</desc> <time>Jan 2026 – Apr 2026</time>
 
-<skills>
-Python PyTorch Transformers Tensorboard CNNs NumPy
-</skills>
+<skills>Python PyTorch Transformers CNNs NumPy</skills>
 
-- Built and trained **deep learning models in PyTorch** to predict future vehicle trajectories for autonomous driving from lane geometry and raw image inputs
-- Developed **model-agnostic training pipelines from scratch**, including data loading, optimization, checkpointing, and offline evaluation
-- Evaluated planning accuracy using **longitudinal and lateral trajectory error**, comparing structured-input and end-to-end vision-based driving approaches
+- Developed and trained **PyTorch models** to predict vehicle trajectories using road geometry and image inputs.
+- Built reusable **training and evaluation pipelines** with data loading, optimization, checkpointing, and quantitative trajectory-error evaluation.
 
-### Applied Stylometry<location>[Video](https://www.youtube.com/watch?v=AUzh1nXO-pI) </location> <location>Arizona State University</location> <desc>Data Science Report</desc> <time>Nov 2025 – Dec 2025</time>
+## Military Experience
 
-<skills>
-Python pandas NumPy scikit-learn NLP TF-IDF PCA SciPy Matplotlib Plotly
-</skills>
+### United States Air Force <desc>F-16 Crew Chief | Prior active-duty service</desc>
 
-- Applied **stylometry and NLP techniques** to analyze authorship signals across multiple text corpora using TF-IDF, character n-grams, and sentence-level features
-- Built an **end-to-end text analysis pipeline in Python**, including HTML parsing, text normalization, feature extraction, and exploratory visualization
-- Reduced **high-dimensional linguistic feature spaces using PCA** and visualized clustering behavior to compare content-based vs style-based representations
-- Evaluated **methodological limitations of stylometry** on short-form texts, demonstrating how data volume and shared background can confound authorship attribution
+- Served **seven years on active duty** in F-16 aircraft maintenance, gaining experience in mission-critical operations, technical troubleshooting, and team coordination.
