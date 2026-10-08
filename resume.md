@@ -62,6 +62,14 @@
 - Developed and trained **PyTorch models** to predict vehicle trajectories using road geometry and image inputs.
 - Built reusable **training and evaluation pipelines** with data loading, optimization, checkpointing, and quantitative trajectory-error evaluation.
 
+### Applied Stylometry <location>[Report](https://palmerusaf.github.io/stylometric-analysis-ub/)</location> <desc>Forensic Text Analysis | Historical FBI Case Study</desc> <time>Nov 2025 – Dec 2025</time>
+
+<skills>Python BeautifulSoup pandas scikit-learn NLP TF-IDF PCA Plotly</skills>
+
+- Developed a **Python text-analysis pipeline** to extract and structure publicly available documents from the historical FBI Unabomber investigation using **BeautifulSoup and pandas**.
+- Applied **TF-IDF, character n-grams, PCA, and stylometric analysis** to investigate linguistic similarities across document collections.
+- Built **interactive Plotly visualizations** to explore document clustering and evaluated the reliability and limitations of automated authorship analysis.
+
 ## Military Experience
 
 ### United States Air Force <desc>F-16 Crew Chief | Prior active-duty service</desc>
